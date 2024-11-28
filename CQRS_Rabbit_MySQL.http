@@ -1,0 +1,6 @@
+@CQRS_Rabbit_MySQL_HostAddress = http://localhost:5117
+
+GET {{CQRS_Rabbit_MySQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
